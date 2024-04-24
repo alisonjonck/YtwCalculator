@@ -5,8 +5,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Specific files
-Repositories/Root/PopContext.cs.bak
-Repositories/obj/Debug/netcoreapp2.0/Repositories.csproj.CopyComplete
+.DS_Store
 
 # User-specific files
 *.suo
